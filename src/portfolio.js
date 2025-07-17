@@ -6,13 +6,13 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Nicolás Delfino',
+  role: 'FullStack Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    "Desarrollador fullstack en formación con conocimientos en React, JavaScript, Python y APIs REST usando Flask. También aprendiendo sobre bases de datos y algo de Salesforce. Me enfoco en construir aplicaciones simples pero funcionales, con ganas de seguir creciendo, aprendiendo cada día y aportar a proyectos reales.",
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
+    linkedin: 'https://linkedin.com/nico-delfi',
     github: 'https://github.com',
   },
 }
